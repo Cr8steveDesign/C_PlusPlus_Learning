@@ -1,0 +1,9 @@
+{
+  "C_Cpp.errorSquiggles": "enabled",
+  "editor.formatOnSave": true,
+  "files.associations": {
+    "string": "cpp",
+    "limits": "cpp",
+    "iostream": "cpp"
+  }
+}
